@@ -29,4 +29,3 @@ Yukarıda da bahsettiğim gibi an itibariyle lise düzeyinde eğitim görüyorum
 > Aşağıda gördüğünüz çiçek [Viburnum tinus](https://tr.wikipedia.org/wiki/Viburnum_tinus#) çiçeğidir ve halk arasında defne yapraklı kartopu olarak bilinir.
 {: .prompt-tip }
 <!-- markdownlint-restore -->
-![Viburnum tinus](/Viburnum tinus.jpg)

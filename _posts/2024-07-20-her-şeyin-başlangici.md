@@ -5,7 +5,7 @@ date: 2024-07-20 21:45:00 +0300
 categories: []
 tags: []
 pin: false
-media_subpath: '/_posts/20240720'
+media_subpath: '/posts/20240720'
 ---
 
 ## Bu blog da neyin nesi?
